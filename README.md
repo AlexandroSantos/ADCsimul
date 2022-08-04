@@ -1,0 +1,2 @@
+# ADCsimul
+Simulador ADC 
